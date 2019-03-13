@@ -8,9 +8,9 @@
 >
     <projectFiles>
         <directory name="src" useStrictTypes="true"/>
-        <!--<ignoreFiles>
+        <ignoreFiles>
             <directory name="vendor"/>
-        </ignoreFiles>-->
+        </ignoreFiles>
     </projectFiles>
 
     <issueHandlers>
