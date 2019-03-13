@@ -1,0 +1,25 @@
+{
+    "name": "nschoellhorn/collections-test",
+    "type": "project",
+    "require-dev": {
+        "vimeo/psalm": "^3.1",
+        "weirdan/doctrine-psalm-plugin": "^0.3.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Niklas Schöllhorn",
+            "email": "schoellhorn.niklas@gmail.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/nschoellhorn/collections.git"
+        }
+    ],
+    "require": {
+        "php": "^7.3",
+        "doctrine/collections": "dev-master"
+    }
+}
