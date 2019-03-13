@@ -51,4 +51,4 @@
 
         <InvalidStringClass errorLevel="info"/>
     </issueHandlers>
-<plugins><pluginClass class="Weirdan\DoctrinePsalmPlugin\Plugin"/></plugins></psalm>
+</psalm>

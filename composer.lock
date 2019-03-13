@@ -4,21 +4,15 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "cc26264e081cb0fbfc477c916c3b5b8a",
+    "content-hash": "fe2582df590e198fefe6d03151bf2344",
     "packages": [
         {
             "name": "doctrine/collections",
             "version": "dev-master",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/nschoellhorn/collections.git",
-                "reference": "6513be8f1745ca923ed6eb82ddff711be79ade90"
-            },
             "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/nschoellhorn/collections/zipball/6513be8f1745ca923ed6eb82ddff711be79ade90",
-                "reference": "6513be8f1745ca923ed6eb82ddff711be79ade90",
-                "shasum": ""
+                "type": "path",
+                "url": "../collections",
+                "reference": "6513be8f1745ca923ed6eb82ddff711be79ade90"
             },
             "require": {
                 "php": "^7.1"
@@ -77,11 +71,7 @@
                 "collections",
                 "iterators",
                 "php"
-            ],
-            "support": {
-                "source": "https://github.com/nschoellhorn/collections/tree/master"
-            },
-            "time": "2019-03-12T23:50:18+00:00"
+            ]
         }
     ],
     "packages-dev": [
